@@ -2,7 +2,6 @@
 ---
 
 ![Alt text](증사.jpg)
-<img src=증사.jpg height=150 widht=150>
 장다연 
 
 ---
